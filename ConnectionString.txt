@@ -1,0 +1,3 @@
+ <connectionStrings>
+    <add name="DatabaseFirstDemoEntities" connectionString="metadata=res://*/BlogModel.csdl|res://*/BlogModel.ssdl|res://*/BlogModel.msl;provider=System.Data.SqlClient;provider connection string=&quot;data source=localhost\SQLEXPRESS;initial catalog=DatabaseFirstDemo;integrated security=True;MultipleActiveResultSets=True;App=EntityFramework&quot;" providerName="System.Data.EntityClient" />
+  </connectionStrings>
